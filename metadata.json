@@ -1,0 +1,6 @@
+{
+  "name": "ArogyaSync AI - Smart Health & Supply Chain Command",
+  "description": "AI-driven multilingual health centre management platform for PHCs and CHCs covering real-time inventory monitoring, bed availability, patient footfall triage, doctor attendance, diagnostic audits, early stockout warnings, demand forecasting, and smart inter-facility resource redistribution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
